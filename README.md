@@ -1,0 +1,2 @@
+# wwgo
+working with go 
